@@ -1,0 +1,17 @@
+links:
+  facebook:
+    enable: True
+    link: "https://www.facebook.com/kattherine.gaarcia"
+    description: "check my facebook"
+  instagram:
+    enable: True
+    link: "https://www.instagram.com/kygags/"
+    description: "How Cool my photos are in instagram :camera:"
+  web:
+    enable: True
+    link: "https://kgracia1136.wixsite.com/casadelfrappe"
+    description: "FRAPPE WEB PAGE"
+  etc:
+    enable: False
+    link: "http://etc.etc"
+    description: "any other link you want your followers to see"
