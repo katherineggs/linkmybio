@@ -1,3 +1,6 @@
+picture: "static/me.jpeg/"
+name: "Katherine Garcia G"
+shortbio: "Future Computer Scientist"
 links:
   facebook:
     enable: True
@@ -11,7 +14,3 @@ links:
     enable: True
     link: "https://kgracia1136.wixsite.com/casadelfrappe"
     description: "FRAPPE WEB PAGE"
-  etc:
-    enable: False
-    link: "http://etc.etc"
-    description: "any other link you want your followers to see"

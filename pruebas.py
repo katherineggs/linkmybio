@@ -5,4 +5,4 @@ with open("links.yaml") as yml:
 
 for categorie,char in personal.items():
     print(char)
-    for page,value in char.it:
+    # for page,value in char.it:

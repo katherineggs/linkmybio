@@ -7,8 +7,8 @@ with open("links.yaml") as yml:
     personal = yaml.load(yml,Loader=yaml.FullLoader)
 @app.route("/")
 def principal():
-    for categorie,char in personal.items():
-        return render_template("temp.html", char=char)
+    #for categorie,char in personal.items():
+    return render_template("pruebas.html", personal=personal)
     
 
 if __name__ == "__main__":
