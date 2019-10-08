@@ -66,14 +66,14 @@ a.button1{
         float: right;
         padding: 10% 6% 0 0;
         font-family: "Courier New", Courier, monospace;
-        font-size: 120px;
+        font-size: 60px;
         color: #111;
     } 
     p{
         float: right;
         padding: 3% 16% 5% 0;
         font-family:'Roboto',sans-serif;
-        font-size: 80px;
+        font-size: 40px;
     }
 
     a{
