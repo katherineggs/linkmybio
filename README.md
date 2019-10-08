@@ -90,12 +90,12 @@ See you can add any style to your own project. These are only ideas.
 
 # Usage
 
-> In your terminal 
-> Step 1 -> pip install -r requirements
-> Step 2 -> cd (Where the 'linkmybio' folder is)
-> Step 3 -> python bio.py
-> Step 4 -> Copy the link or local host in your navigator
-> Step 5 -> Check it :)
+> In your terminal \
+> pip install -r requirements \
+> cd (Where the 'linkmybio' folder is) \
+> python bio.py \
+> Copy the link or local host in your navigator \
+> Check it :)
 
 
 # Extras:
